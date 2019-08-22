@@ -8,7 +8,7 @@ This method builds on the <a href="https://ieeexplore.ieee.org/document/902291">
 
 #### Data required to run the MATLAB program can be found here: <a href="https://drive.google.com/open?id=1zAh4i4pZkzys8kj0zDQFvfKyN2XKlxQM"> required data</a>.
 
-## Sample Results:
+## Sample results for SPECT bone and bone lesion segmentation:
 <img src="https://github.com/junyuchen245/Active-Contour-Wavelet-Seg/blob/master/sample_img/results.png" width="600"/>
 
 ### q = 0.75 (Bone Segmentation):
