@@ -18,4 +18,4 @@ This method builds on the <a href="https://ieeexplore.ieee.org/document/902291">
 <img src="https://github.com/junyuchen245/Active-Contour-Wavelet-Seg/blob/master/sample_img/q%3D1.7.gif" width="400"/>
 
 
-### <a href="junyuchen245.github.io"> About Myself</a>
+### <a href="https://junyuchen245.github.io"> About Myself</a>
